@@ -6,3 +6,5 @@ Como você pode usar a área de preparação para garantir que tenha um commit p
 Verificando a diferença entre o código que está no diretório de trabalho e o que está na área de preparação podemos avaliar o volume e expressividade das alterações feitas, podendo decidir melhor o conteúdo de cada commit.
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 São uteis quando tiver uma versão funcionamente satisfatória do código, boa para demonstrar e quiser prosseguir adicionando novos recursos que ainda precisaram ser testados. Usando branches pode-se seguir adiante experimentando novas ideias, conceitos e técnicas, mantendo sempre uma versão com funcionalidade boas para demonstrações parciais.
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Através dos diagramas podemos compreender as ramificações do projeto e localizar melhor mentalmente em que ramificação estamos trabalhando.
