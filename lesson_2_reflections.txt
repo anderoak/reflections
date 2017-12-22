@@ -1,2 +1,4 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 Ao inicial um repositório é criado o diretório .git, onde ficam armazenados os arquivos que aplicativo Git usa para controlar as versões. É preciso fazer isso para que o aplicativo Git comece a monitorar e gerenciar as versões dos arquivos do repositório.
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+O diretório de trabalho é a pasta que escolhemos para colocar os arquivos do nosso projeto. A area de preparação é uma área intermediária onde ficam os arquivos indicamos para Git que devem ter controle de versão. O repositório é conjunto de arquivos que tem as versões controladas pelo Git.
