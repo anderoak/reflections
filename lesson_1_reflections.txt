@@ -1,14 +1,34 @@
 Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
-É muito mais fácil perceber as diferenças entre aqruivos quando são mostradas somente as linhas onde elas ocorrem.
+
+É muito mais fácil entender as diferenças entre aqruivos quando são mostradas somente as linhas onde elas ocorrem.
+
+
 Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
 Penso que poder voltar atrás quando não se ficou satisfeito com alguma modificação que fez é algo que agiliza bastante o processo de desenvolvimento.
+
+
 Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
 A vantagem é poder decidir qual o melhor momento para criar um commit. A desvantagem é que precisará ficar atento para não esquecer de criar um commit por um tempo longo demais.
+
+
 Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
-Porque o Git é mais voltado para desenvolvimento de software, que possuem normalmente muitos arquivos relacionados entre si, enquanto o Google Docs e outros, são para conteúdos mais diversificados.
+
+Acho que o Git nasceu mais voltado para desenvolvimento de software, que possuem normalmente muitos arquivos relacionados entre si, enquanto o Google Docs e outros, são para conteúdos mais diversificados.
+
+
 Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
 Acesse um repositório e então use git log para listar os commits. Localize os commits desejados. E então use o git diff para comparar os commits usando os id dos mesmos. Ex. git diff <id commit 1> <id commit 2>
+
+
 De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
 Com a criação de commits em momentos estratégicos do desenvolvimento é possível como que "retornar no tempo" se alguma coisa der errada.
+
+
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
 Quero usar o Git para controlar as versões de meus códigos na Nanodegree Adroid Basics.
+

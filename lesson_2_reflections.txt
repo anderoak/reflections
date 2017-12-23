@@ -1,14 +1,34 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
 Ao inicial um repositório é criado o diretório .git, onde ficam armazenados os arquivos que aplicativo Git usa para controlar as versões. É preciso fazer isso para que o aplicativo Git comece a monitorar e gerenciar as versões dos arquivos do repositório.
+
+
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
 O diretório de trabalho é a pasta que escolhemos para colocar os arquivos do nosso projeto. A area de preparação é uma área intermediária onde ficam os arquivos indicamos para Git que devem ter controle de versão. O repositório é conjunto de arquivos que tem as versões controladas pelo Git.
+
+
 Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
-Verificando a diferença entre o código que está no diretório de trabalho e o que está na área de preparação podemos avaliar o volume e expressividade das alterações feitas, podendo decidir melhor o conteúdo de cada commit.
+
+Verificando a diferença entre o arquivo que está no diretório de trabalho e o que está na área de preparação podemos avaliar o volume e expressividade das alterações feitas, podendo decidir melhor o conteúdo de cada commit.
+
+
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
-São uteis quando tiver uma versão funcionamente satisfatória do código, boa para demonstrar e quiser prosseguir adicionando novos recursos que ainda precisaram ser testados. Usando branches pode-se seguir adiante experimentando novas ideias, conceitos e técnicas, mantendo sempre uma versão com funcionalidade boas para demonstrações parciais.
+
+No meu caso são uteis quando eu tiver uma versão funcionalmente satisfatória do código, boa para demonstrar e quiser prosseguir adicionando novos recursos que ainda precisaram ser testados. Usando branches pode-se seguir adiante experimentando novas ideias, conceitos e técnicas, mantendo sempre uma versão com funcionalidade boas para demonstrações parciais.
+
+
 Como os diagramas ajudam a visualizar a estrutura de branches?
+
 Através dos diagramas podemos compreender as ramificações do projeto e localizar melhor mentalmente em que ramificação estamos trabalhando.
+
+
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
 O Git mescla as alterações dos dois branches em um. A representação demonstra as sequências de commits do dois branches mesclados, facilitando a compreensão.
+
+
 Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
 O automatismo agiliza, mas se houver conflito pode dar trabalho para entender e resolver. Como eu não usava o Git as mesclagens sempre eram manuais.
+
