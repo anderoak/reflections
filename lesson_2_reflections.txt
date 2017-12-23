@@ -8,3 +8,5 @@ Quais são algumas das situações em que branches seriam úteis para manter seu
 São uteis quando tiver uma versão funcionamente satisfatória do código, boa para demonstrar e quiser prosseguir adicionando novos recursos que ainda precisaram ser testados. Usando branches pode-se seguir adiante experimentando novas ideias, conceitos e técnicas, mantendo sempre uma versão com funcionalidade boas para demonstrações parciais.
 Como os diagramas ajudam a visualizar a estrutura de branches?
 Através dos diagramas podemos compreender as ramificações do projeto e localizar melhor mentalmente em que ramificação estamos trabalhando.
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+O Git mescla as alterações dos dois branches em um. A representação demonstra as sequências de commits do dois branches mesclados, facilitando a compreensão.
