@@ -8,3 +8,8 @@ Por que você prefere efetuar pull de alterações manualmente do que deixar o G
 Porque eu prefiro decidir quando é o melhor momento.
 
 
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+Clones são cópias de repositórios do GitHub na seu computador local.
+Bifurcações são como clones de repositórios criados pela GitHub no servidores deles.
+Branches são como "commits chave" na sequência de commits de um repositório. É possível ramificar a sequência com e ter sequências paraleas de commits. Também é possível fundir branches que originam de um mesmo nó anterior de uma sequência de commits.
