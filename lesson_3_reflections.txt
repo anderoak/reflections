@@ -18,3 +18,8 @@ Branches são como "commits chave" na sequência de commits de um repositório. 
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 
 É útil quando estiver em algum local que não puder estar online para ter acesso ao remoto.
+
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+Colaborar sem o Git demanda mais tempo e controle. Envolvendo mais reuniões de planejamento, anotações e verificações. A parte fácil seria determinar o que cada pessoa envolvida faria, a parte difícil seria juntar tudo funcionalmente.
