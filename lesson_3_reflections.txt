@@ -23,3 +23,8 @@ Qual é o benefício de ter uma cópia do último estado conhecido do remoto arm
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 
 Colaborar sem o Git demanda mais tempo e controle. Envolvendo mais reuniões de planejamento, anotações e verificações. A parte fácil seria determinar o que cada pessoa envolvida faria, a parte difícil seria juntar tudo funcionalmente.
+
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+No caso de ser necessária opinião/aprovação de outra pessoa a respeito de uma modificação. O trabalho no master poderia prosseguir enquanto modificações paralelas seriam avaliadas.
